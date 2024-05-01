@@ -35,6 +35,12 @@ I'm a Math student with a great interest in Machine Learning, poised to graduate
 </p>
 
 
+</p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lezippo&show_icons=true&locale=en&layout=compact" alt="lezippo" />
+</p>
+
+
 ## Formation
 - Bachelor’s degree in Mathematics (expected in July 2024)
 - Apple Developer Academy, 2023-2024 (expected to end in June 2024)
