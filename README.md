@@ -47,6 +47,7 @@ I'm a Math student with a great interest in Machine Learning, poised to graduate
 - Apple Foundation Program, 2023
 - Scientific High School Diploma, 2020, 100/100
 
-## Contacts
-- Email: 
-- LinkedIn: 
+## Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/luigi-emanuele-zippo-1235a7307?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3barptis4fscqhqqziyjnaza%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luigi-emanuele-zippo-1235a7307?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3barptis4fscqhqqziyjnaza%3d%3d" height="30" width="40" /></a>
+</p>
