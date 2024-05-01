@@ -42,5 +42,5 @@ I'm a Math student with a great interest in Machine Learning, poised to graduate
 - Scientific High School Diploma, 2020, 100/100
 
 ## Contacts
-- Email: luigi.academy@icloud.com
+- Email: 
 - LinkedIn: 
