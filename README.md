@@ -42,7 +42,7 @@ Born in 2002, I’m a dedicated Mathematics student with a deep interest in Mach
 
 
 ## Experiences
-_ The Pier Program @ Apple Developer Academy (starts in July 2024)
+- The Pier Program @ Apple Developer Academy (starts in July 2024)
 - Bachelor’s degree in Mathematics (expected in September 2024)
 - Apple Developer Academy, 2023-2024 (expected to end in June 2024)
 - Apple Foundation Program, 2023
