@@ -1,7 +1,7 @@
 # Hello, I'm Luigi Emanuele Zippo
 
 ## About Me
-I'm a Math student with a great interest in Machine Learning, poised to graduate in september 2024. Equipped with a solid foundation in mathematical concepts, I'm currently seeking opportunities to apply analytical skills in real-world scenarios. 
+Born in 2002, I’m a dedicated Mathematics student with a deep interest in Machine Learning, expected to graduate in September 2024. With a strong foundation in mathematical concepts, I’m constantly looking for opportunities to apply analytical skills in real-world scenarios.
 
   <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -41,8 +41,9 @@ I'm a Math student with a great interest in Machine Learning, poised to graduate
 </p>
 
 
-## Formation
-- Bachelor’s degree in Mathematics (expected in september 2024)
+## Experiences
+_ The Pier Program @ Apple Developer Academy (starts in July 2024)
+- Bachelor’s degree in Mathematics (expected in September 2024)
 - Apple Developer Academy, 2023-2024 (expected to end in June 2024)
 - Apple Foundation Program, 2023
 - Scientific High School Diploma, 2020, 100/100
