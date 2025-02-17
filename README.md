@@ -1,7 +1,9 @@
 # Hello, I'm Luigi Emanuele Zippo
 
 ## About Me
-Born in 2002, I’m a dedicated Mathematics student with a deep interest in Machine Learning, expected to graduate in September 2024. With a strong foundation in mathematical concepts, I’m constantly looking for opportunities to apply analytical skills in real-world scenarios.
+I’m a passionate mathematics master’s student with a strong foundation in data science and software development. My academic journey has equipped me with analytical problem-solving skills, while my hands-on experience at the Apple Developer Academy and the PIER Program has refined my ability to develop innovative applications.
+
+With a blend of theory and practice, I’m eager to explore opportunities where I can bridge data science and software development to create impactful solutions.
 
   <h3 align="left">Languages and Tools:</h3>
 <p align="left">
