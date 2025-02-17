@@ -43,9 +43,8 @@ With a blend of theory and practice, I’m eager to explore opportunities where 
 </p>
 
 
-## Experiences
-- The Pier Program @ Apple Developer Academy (starts in July 2024)
-- Bachelor’s degree in Mathematics (expected in September 2024)
-- Apple Developer Academy, 2023-2024 (expected to end in June 2024)
-- Apple Foundation Program, 2023
-- Scientific High School Diploma, 2020, 100/100
+## Experiences and Education
+- The Pier Program @ Apple Developer Academy (July 2024 - June 2025)
+- Bachelor’s degree in Mathematics @ University of Naples "Federico II", 106/110 (September 2024)
+- Apple Developer Academy, (September 2023 - June 2024)
+- Apple Foundation Program, (February 2023)
