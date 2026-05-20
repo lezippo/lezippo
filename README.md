@@ -1,9 +1,7 @@
 # Hello, I'm Luigi Emanuele Zippo
 
 ## About Me
-I’m a passionate mathematics master’s student with a strong foundation in data science and software development. My academic journey has equipped me with analytical problem-solving skills, while my hands-on experience at the Apple Developer Academy and the PIER Program has refined my ability to develop innovative applications.
-
-With a blend of theory and practice, I’m eager to explore opportunities where I can bridge data science and software development to create impactful solutions.
+Master's student in Data Science with a strong foundation in Machine Learning and Deep Learning. Combining rigorous mathematical background with hands-on software engineering experience. Passionate about leveraging data to build solutions that solve real-world problems
 
   <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -41,6 +39,7 @@ With a blend of theory and practice, I’m eager to explore opportunities where 
 
 
 ## Experiences and Education
+- Master's degree in Data Science (September 2025 - in progress)
 - The Pier Program @ Apple Developer Academy (July 2024 - June 2025)
 - Bachelor’s degree in Mathematics @ University of Naples "Federico II", 106/110 (September 2024)
 - Apple Developer Academy, (September 2023 - June 2024)
