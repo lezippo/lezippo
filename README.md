@@ -32,12 +32,6 @@ Master's student in Data Science with a strong foundation in Machine Learning an
 </p>
 
 
-</p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lezippo&show_icons=true&locale=en&layout=compact" alt="lezippo" />
-</p>
-
-
 ## Experiences and Education
 - Master's degree in Data Science (September 2025 - in progress)
 - The Pier Program @ Apple Developer Academy (July 2024 - June 2025)
